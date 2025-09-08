@@ -1,5 +1,5 @@
 """
-Module: draw_pentagon
+Module: custom_pentagon
 
 Program to draw a pentagon using turtles.
 """
