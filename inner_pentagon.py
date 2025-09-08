@@ -1,7 +1,7 @@
 """
-Module: draw_pentagon
+Module: inner_pentagon
 
-Program to draw a pentagon using turtles.
+Program to draw two pentagons using turtles, one inside of the other (non-overlapping).
 """
 
 import turtle
